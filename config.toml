@@ -1,7 +1,7 @@
 baseurl = "/blogdown-example/"
 languageCode = "en-us"
 title = "Blogdown Demo Site"
-theme = "hugo-lithium"
+theme = "hugo-now-ui"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
